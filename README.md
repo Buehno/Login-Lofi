@@ -1,9 +1,9 @@
 # Login-Lofi
 
-<li> #Tela de login com puro HTML & CSS 
- #visualmente leve 
- #simplicidade e modernidade
-</li>
+<li> #Tela de login com puro HTML & CSS </li>
+ <li>#visualmente leve </li>
+ <li>#simplicidade e modernidade </li>
+
  Artigo do codigo: 
  https://encurtador.com.br/egOR3
  
